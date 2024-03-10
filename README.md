@@ -11,6 +11,14 @@ This program will help you to keep record of you device when you login, with pro
 - Notify when last time device log in
 - Proper directory management
 
+## Installation
+- Given path is only for windows
+- Move the program to the given directory
+
+```path
+C:\Users\{directory}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+```
+- Change the {directory} with your directory name
 
 ## Module
 
