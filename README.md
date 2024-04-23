@@ -68,13 +68,4 @@ engin('welcome in your computer, have a grate day')
 ```
 
 ##  Language
-- Python
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at instagram. 
-## 🔗 Links
-
-[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techie_31/)
-
+> - Python
