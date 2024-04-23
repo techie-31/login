@@ -1,7 +1,7 @@
 
 ## About project
 
-This program will help you to keep record of you device when you login, with proper folder and date management. This program will wish you when you login your device. you can make changes as you want...
+This code will help you to keep record of you device when you login, with proper folder and date management. This program will wish you when you login your device. you can make changes as you want...
 
 
 ## Features
