@@ -6,7 +6,7 @@ This code will help you to keep records of your device when you login, with prop
 
 ## Features
 
-- Wish you when your computer turn on
+- Greet you when your computer turn on
 - Make a records of when device log in
 - Notify when last time device log in
 - Proper directory management
