@@ -16,9 +16,8 @@ This code will help you to keep records of your device when you login, with prop
 - Move the program to the given directory
 
 ```path
-C:\Users\{directory}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+C:\Users\<UserName>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
-- Change the {directory} with your directory name
 
 ## Module
 
