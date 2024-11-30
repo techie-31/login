@@ -1,0 +1,13 @@
+{
+    "voice":1,
+    "version":"Female version",
+    "command":"Welcome in your work station have a great day",
+    "shedule":1,
+    "morning":"Good morning sir",
+    "afternoon":"Good afternoon sir",
+    "evening":"Good evening sir",
+    "image":0,
+    "delete":"Never",
+    "day":0,
+    "date":"2024-08-25"
+}
